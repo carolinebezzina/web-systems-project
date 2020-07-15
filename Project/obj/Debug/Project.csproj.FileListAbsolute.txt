@@ -1,0 +1,211 @@
+D:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Project\Project\bin\Project.dll.config
+D:\Project\Project\bin\Project.dll
+D:\Project\Project\bin\Project.pdb
+D:\Project\Project\bin\Antlr3.Runtime.dll
+D:\Project\Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Project\Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\Project\Project\bin\EntityFramework.dll
+D:\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Project\Project\bin\Microsoft.Owin.dll
+D:\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Project\Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Project\bin\Newtonsoft.Json.dll
+D:\Project\Project\bin\Owin.dll
+D:\Project\Project\bin\System.Web.Optimization.dll
+D:\Project\Project\bin\System.Web.Providers.dll
+D:\Project\Project\bin\WebGrease.dll
+D:\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\Project\bin\System.Web.Optimization.xml
+D:\Project\Project\bin\Antlr3.Runtime.pdb
+D:\Project\Project\bin\Newtonsoft.Json.xml
+D:\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\Project\bin\EntityFramework.xml
+D:\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\Project\Project\bin\System.Web.Providers.xml
+D:\Project\Project\bin\Microsoft.Owin.xml
+D:\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\Project\obj\Debug\Project.dll
+D:\Project\Project\obj\Debug\Project.pdb
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Project.dll.config
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Project.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Project.pdb
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\EntityFramework.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Owin.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\System.Web.Providers.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\WebGrease.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\EntityFramework.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\System.Web.Providers.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.dll
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\c_bez\Documents\Visual Studio 2013\Projects\Project\Project\bin\AjaxControlToolkit.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Project.dll.config
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Project.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Project.pdb
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\AjaxControlToolkit.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\EntityFramework.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Owin.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\System.Web.Providers.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\WebGrease.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\EntityFramework.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\bin\System.Web.Providers.xml
+C:\Users\c_bez\Desktop\Group Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\c_bez\Desktop\Group Project\Project\Project\obj\Debug\Project.dll
+C:\Users\c_bez\Desktop\Group Project\Project\Project\obj\Debug\Project.pdb
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Project.dll.config
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Project.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Project.pdb
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\AjaxControlToolkit.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Antlr3.Runtime.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\AspNet.ScriptManager.jQuery.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\EntityFramework.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\EntityFramework.SqlServer.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Newtonsoft.Json.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Owin.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\System.Web.Optimization.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\System.Web.Providers.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\WebGrease.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Antlr3.Runtime.pdb
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\EntityFramework.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\EntityFramework.SqlServer.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Newtonsoft.Json.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\System.Web.Optimization.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\bin\System.Web.Providers.xml
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\obj\Debug\Project.dll
+E:\Documents\Old Uni or TAFE Stuff\WSD\Project\Project\obj\Debug\Project.pdb

@@ -1,0 +1,41 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<%-- 
+Monochromatic colour choices (Hexadecimal values)
+1. #101236
+2. #7376C2
+3. #353BB6
+4. #202136
+5. #262A83
+
+Link for colour references:
+https://color.adobe.com/create/color-wheel/?copy=true&base=2&rule=Monochromatic&selected=4&name=Copy%20of%20alt-mono&mode=rgb&rgbvalues=0.06271374551501747,0.0688658035658024,0.2137254901960784,0.4518610775184244,0.4644729087331355,0.7614379084967321,0.20942938869235198,0.2299738761280007,0.7137254901960784,0.126831392573841,0.1303713657989144,0.2137254901960784,0.15074313142141815,0.16553064710312135,0.5137254901960784&swatchOrder=0,1,2,3,4
+--%>
+
+<asp:Button runat="server" 
+  BackColor="#7376C2"
+  ForeColor="#101236"
+  Font-Name="Sans" />
+<asp:TextBox runat="server" 
+  BackColor="#7376C2"
+  ForeColor="#101236" />
+<asp:DropDownList runat="server" 
+  BackColor="#7376C2"
+  ForeColor="#101236" />
+<asp:ListBox runat="server" 
+  BackColor="#7376C2"
+  ForeColor="#101236" />

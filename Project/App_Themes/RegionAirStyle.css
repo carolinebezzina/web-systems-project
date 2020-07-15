@@ -1,0 +1,21 @@
+﻿/*
+ * Monochromatic colour choices (Hexadecimal values)
+ * 1. #101236
+ * 2. #7376C2
+ * 3. #353BB6
+ * 4. #202136
+ * 5. #262A83
+ * Link for colour references:
+ * https://color.adobe.com/create/color-wheel/?copy=true&base=2&rule=Monochromatic&selected=4&name=Copy%20of%20alt-mono&mode=rgb&rgbvalues=0.06271374551501747,0.0688658035658024,0.2137254901960784,0.4518610775184244,0.4644729087331355,0.7614379084967321,0.20942938869235198,0.2299738761280007,0.7137254901960784,0.126831392573841,0.1303713657989144,0.2137254901960784,0.15074313142141815,0.16553064710312135,0.5137254901960784&swatchOrder=0,1,2,3,4
+ */
+
+body {
+  background: #202136; 
+  color: #262A83;
+}
+
+div {
+  color: #101236;
+  border: thick 5px solid;
+  border-color: #202136;
+}
